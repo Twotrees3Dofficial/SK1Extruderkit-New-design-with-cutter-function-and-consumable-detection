@@ -4,20 +4,21 @@
 
 ## Introduction
 
-<img src="Image/preview.png" width="1000"/>
+<img src="https://github.com/Twotrees3Dofficial/SK1Extruderkit-New-design-with-cutter-function-and-consumable-detection/blob/main/Image/preview.png" width="1000"/>
 
 The SK1 extruder kit was inspired by the user's urgent need to improve printing efficiency and reduce clog. Most printer users will experience the problem of blocked extrusion heads, resulting in print interruptions and difficult maintenance, especially when replacing consumables, requiring manual handling of residual material filaments.To address these challenges SK1 By adopting a newly designed control scheme, SK1 can not only increase the extrusion flow rate and increase the extrusion speed, but also significantly improve the overall stability and accuracy of the printing. Most importantly, the new cutter function greatly simplifies the material return operation, effectively avoiding material residue in the printer and eliminating the problem of extrusion head clogging. A smarter and more reliable extrusion system for high-end users and those who need fast print speeds.
 
 ## Usage scenario
 
+<img src="Image/disassembly.png" width="500"/><img src="Image/cutter.png" width="500"/>
+
 - **High-speed printing users:**  The SK1 extruder head significantly increases the extrusion flow rate, and with the enhanced heating block, users can still maintain stable print quality at high-speed printing.
 - **Users of flexible materials such as TPU:**  SK1's cutter function and flow compensation technology ensure that materials can be easily returned when handling flexible materials, ensuring smooth printing.
 - **Multi-material switching needs users:**  The modular design of the quick disassembly function, so that users can easily maintain the extrusion head, especially when the need to frequently change different types of materials, greatly improving the efficiency of operation.
 
+## Key Features
 
 <img src="Image/extrusion.png" width="500"/><img src="Image/detection.png" width="500"/>
-
-## Key Features
 
 - **Increased extrusion flow and speed:**  The upgraded extrusion head allows users to print at higher flow rates, accepting up to 37.68mm3/s, while maintaining a stable material flow through a more efficient heating block design and intelligent control.
 - **Cutter function:**  The cutter greatly simplifies the material return operation and reduces the blockage problem caused by the material staying in the heating block after tearing. This not only improves the life of the extruder head, but also speeds up the speed of material replacement.
@@ -25,16 +26,13 @@ The SK1 extruder kit was inspired by the user's urgent need to improve printing 
 - **New PCB control scheme:**  GD32F303 controller: integrated lis2dw gyroscope, improved overall control accuracy, stability and extruder response speed.
 - **Modular quick-remove design:**  The simple quick-remove feature allows users to quickly perform routine maintenance or replace modular parts, reducing downtime and significantly improving the user experience.
 
-<img src="Image/cutter.png" width="500"/><img src="Image/disassembly.png" width="500"/>
-
 ## Hardware Detailsi
-<img src="https://github.com/TWOTREES-TTS/SK1-Extruder-kit-New-design-with-cutter-function-and-consumable-detection/blob/f2b71958c4ee512bc262cedc83f4881f1c707725/Image/STL.png" width="600"/><img src="https://github.com/TWOTREES-TTS/SK1-Extruder-kit-New-design-with-cutter-function-and-consumable-detection/blob/f2b71958c4ee512bc262cedc83f4881f1c707725/Image/STL.png" width="600"/>
 
- 
+<img src="Image/detection.png" width="1000"/>
+
 The STL is a model of the sk1 extruder kit, you can download slices from the Hardware/STL path to print them.
- ![SK1 Extruder kit: New design with cutter function and consumable detection](/Image/STL.png)
- 
 
+<img src="https://github.com/Twotrees3Dofficial/SK1Extruderkit-New-design-with-cutter-function-and-consumable-detection/blob/main/Hardware/Stls/Extrusion%20head%20cover%20decoration.stl" width="500"/><img src="Image/STL.png" width="500"/>
  
 ## Compatibility
 
