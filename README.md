@@ -4,7 +4,7 @@
 
 ## Introduction
 
-[![SK1 Extruder kit: New design with cutter function and consumable detection](./Images/preview.jpg)]([https://bolt.new](https://www.twotrees3dofficial.com/products/sk1-corexy-3d-printer-twotrees))
+![SK1 Extruder kit: New design with cutter function and consumable detection](./Images/preview.png)
 
 The SK1 extruder kit was inspired by the user's urgent need to improve printing efficiency and reduce clog. Most printer users will experience the problem of blocked extrusion heads, resulting in print interruptions and difficult maintenance, especially when replacing consumables, requiring manual handling of residual material filaments.To address these challenges SK1 By adopting a newly designed control scheme, SK1 can not only increase the extrusion flow rate and increase the extrusion speed, but also significantly improve the overall stability and accuracy of the printing. Most importantly, the new cutter function greatly simplifies the material return operation, effectively avoiding material residue in the printer and eliminating the problem of extrusion head clogging. A smarter and more reliable extrusion system for high-end users and those who need fast print speeds.
 
@@ -16,7 +16,8 @@ The SK1 extruder kit was inspired by the user's urgent need to improve printing 
 
 ## Key Features
 
-![SK1 Extruder kit: New design with cutter function and consumable detection](./Image/structure.jpg)
+<img src="Image/cutter.png" width="300"/>
+![SK1 Extruder kit: New design with cutter function and consumable detection](./Image/structure.png)
 
 - **Increased extrusion flow and speed:**  The upgraded extrusion head allows users to print at higher flow rates, accepting up to 37.68mm3/s, while maintaining a stable material flow through a more efficient heating block design and intelligent control.
 - **Cutter function:**  The cutter greatly simplifies the material return operation and reduces the blockage problem caused by the material staying in the heating block after tearing. This not only improves the life of the extruder head, but also speeds up the speed of material replacement.
