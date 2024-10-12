@@ -1,0 +1,2 @@
+# SK1Extruderkit-New-design-with-cutter-function-and-consumable-detection
+The SK1 Extrusion Head Kit is a high-performance extrusion system designed for 3D printers. It integrates the latest hardware and intelligent features to provide higher printing accuracy, ease of use and a flexible modular design. The kit is suitable for a variety of 3D printer users, especially those who need efficient, accurate and stable printin
