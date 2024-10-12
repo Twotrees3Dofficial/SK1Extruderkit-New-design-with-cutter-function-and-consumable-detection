@@ -1,6 +1,6 @@
 # Firmware function description
 
-<img src="Image/preview.png" width="990"/>
+<img src="Image/preview.png" width="1000"/>
 
 ## Renewal folder
 

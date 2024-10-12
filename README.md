@@ -14,15 +14,18 @@ The SK1 extruder kit was inspired by the user's urgent need to improve printing 
 - **Users of flexible materials such as TPU:**  SK1's cutter function and flow compensation technology ensure that materials can be easily returned when handling flexible materials, ensuring smooth printing.
 - **Multi-material switching needs users:**  The modular design of the quick disassembly function, so that users can easily maintain the extrusion head, especially when the need to frequently change different types of materials, greatly improving the efficiency of operation.
 
-## Key Features
 
-<img src="Image/extrusion.png" width="250"/><img src="Image/cutter.png" width="250"/><img src="Image/detection.png" width="250"/><img src="Image/disassembly.png" width="250"/>
+<img src="Image/extrusion.png" width="500"/><img src="Image/detection.png" width="500"/>
+
+## Key Features
 
 - **Increased extrusion flow and speed:**  The upgraded extrusion head allows users to print at higher flow rates, accepting up to 37.68mm3/s, while maintaining a stable material flow through a more efficient heating block design and intelligent control.
 - **Cutter function:**  The cutter greatly simplifies the material return operation and reduces the blockage problem caused by the material staying in the heating block after tearing. This not only improves the life of the extruder head, but also speeds up the speed of material replacement.
 - **Intelligent flow compensation:**  The built-in consumable detector can monitor the use of consumables in real time, and automatically compensate the extrusion flow to ensure that the extrusion is consistent during the printing process, even when the material width error will not affect the printing effect.
 - **New PCB control scheme:**  GD32F303 controller: integrated lis2dw gyroscope, improved overall control accuracy, stability and extruder response speed.
 - **Modular quick-remove design:**  The simple quick-remove feature allows users to quickly perform routine maintenance or replace modular parts, reducing downtime and significantly improving the user experience.
+
+<img src="Image/cutter.png" width="500"/><img src="Image/disassembly.png" width="500"/>
 
 ## Hardware Detailsi
 <img src="https://github.com/TWOTREES-TTS/SK1-Extruder-kit-New-design-with-cutter-function-and-consumable-detection/blob/f2b71958c4ee512bc262cedc83f4881f1c707725/Image/STL.png" width="600"/><img src="https://github.com/TWOTREES-TTS/SK1-Extruder-kit-New-design-with-cutter-function-and-consumable-detection/blob/f2b71958c4ee512bc262cedc83f4881f1c707725/Image/STL.png" width="600"/>
