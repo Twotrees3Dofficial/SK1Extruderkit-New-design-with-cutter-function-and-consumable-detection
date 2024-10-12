@@ -97,16 +97,11 @@ We welcome community contributions to improve and expand the SK1 Extruder Kit. I
 Thank you for using SK1 Extruder Kit! If you have any questions or suggestions during use, please feel free to contact us, we will be happy to work with you to solve. For more product updates and tutorial materials, you can always follow our GitHub page for the latest updates and support.
 
 **Thank you! We are twotrees, looking forward to growing and progressing together with you.**
-
-This is TwoTrees' Official YouTube channel.❤️Innovation the Root, Perfection the Fruit.
-
-Business cooperation: marketing@twotrees3d.com
-After-sales connection: service@twotrees3d.com
+**This is TwoTrees' Official YouTube channel.❤️Innovation the Root, Perfection the Fruit.**
 
 - **Offical:**  [https://twotrees3d.com](https://twotrees3d.com)
 - **Store:**    [twotrees3dofficial.com](twotrees3dofficial.com)
 - **Wiki:**     [https://wiki.twotrees3d.com](https://wiki.twotrees3d.com)
-
 - **Facebook:** [facebook.com/twotrees3d](facebook.com/twotrees3d)
 - **Twitter:**  [twitter.com/TwoTrees3d_](twitter.com/TwoTrees3d_)
 - **TikTok:**  [tiktok.com/@twotreesofficial](tiktok.com/@twotreesofficial)
