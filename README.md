@@ -1,16 +1,18 @@
+<img src="https://github.com/Twotrees3Dofficial/SK1Extruderkit-New-design-with-cutter-function-and-consumable-detection/blob/main/Image/preview.png" width="1000"/>
+
 #  SK1 Extruder kit: New design with cutter function and consumable detection
 
 >The SK1 Extrusion Head Kit is a high-performance extrusion system designed for 3D printers. It integrates the latest hardware and intelligent features to provide higher printing accuracy, ease of use and a flexible modular design. The kit is suitable for a variety of 3D printer users, especially those who need efficient, accurate and stable printing.
 
 ## Introduction
 
-<img src="https://github.com/Twotrees3Dofficial/SK1Extruderkit-New-design-with-cutter-function-and-consumable-detection/blob/main/Image/preview.png" width="1000"/>
+<img src="Image/cutter.png" width="500"/>
 
 The SK1 extruder kit was inspired by the user's urgent need to improve printing efficiency and reduce clog. Most printer users will experience the problem of blocked extrusion heads, resulting in print interruptions and difficult maintenance, especially when replacing consumables, requiring manual handling of residual material filaments.To address these challenges SK1 By adopting a newly designed control scheme, SK1 can not only increase the extrusion flow rate and increase the extrusion speed, but also significantly improve the overall stability and accuracy of the printing. Most importantly, the new cutter function greatly simplifies the material return operation, effectively avoiding material residue in the printer and eliminating the problem of extrusion head clogging. A smarter and more reliable extrusion system for high-end users and those who need fast print speeds.
 
 ## Usage scenario
 
-<img src="Image/disassembly.png" width="500"/><img src="Image/cutter.png" width="500"/>
+<img src="Image/extrusion.png" width="500"/>
 
 - **High-speed printing users:**  The SK1 extruder head significantly increases the extrusion flow rate, and with the enhanced heating block, users can still maintain stable print quality at high-speed printing.
 - **Users of flexible materials such as TPU:**  SK1's cutter function and flow compensation technology ensure that materials can be easily returned when handling flexible materials, ensuring smooth printing.
@@ -18,21 +20,22 @@ The SK1 extruder kit was inspired by the user's urgent need to improve printing 
 
 ## Key Features
 
-<img src="Image/extrusion.png" width="500"/><img src="Image/detection.png" width="500"/>
-
 - **Increased extrusion flow and speed:**  The upgraded extrusion head allows users to print at higher flow rates, accepting up to 37.68mm3/s, while maintaining a stable material flow through a more efficient heating block design and intelligent control.
 - **Cutter function:**  The cutter greatly simplifies the material return operation and reduces the blockage problem caused by the material staying in the heating block after tearing. This not only improves the life of the extruder head, but also speeds up the speed of material replacement.
 - **Intelligent flow compensation:**  The built-in consumable detector can monitor the use of consumables in real time, and automatically compensate the extrusion flow to ensure that the extrusion is consistent during the printing process, even when the material width error will not affect the printing effect.
 - **New PCB control scheme:**  GD32F303 controller: integrated lis2dw gyroscope, improved overall control accuracy, stability and extruder response speed.
 - **Modular quick-remove design:**  The simple quick-remove feature allows users to quickly perform routine maintenance or replace modular parts, reducing downtime and significantly improving the user experience.
 
+<img src="Image/detection.png" width="250"/><img src="Image/disassembly.png" width="250"/>
+
 ## Hardware Detailsi
 
-<img src="Image/detection.png" width="1000"/>
+<img src="Image/pin.png" width="500"/>
 
 The STL is a model of the sk1 extruder kit, you can download slices from the Hardware/STL path to print them.
 
-<img src="https://github.com/Twotrees3Dofficial/SK1Extruderkit-New-design-with-cutter-function-and-consumable-detection/blob/main/Hardware/Stls/Extrusion%20head%20cover%20decoration.stl" width="500"/><img src="Image/STL.png" width="500"/>
+<img src="Image/STL.png" width="500"/>
+
  
 ## Compatibility
 
@@ -47,11 +50,9 @@ The STL is a model of the sk1 extruder kit, you can download slices from the Har
 ## Calibration
 1.	 The offset value is mainly used to calibrate the error between the measured value and the actual value, and the user only needs to modify its configuration file
 2.	 Formula converter, mainly used for users who have strong hands-on ability and are not satisfied with the existing calculation algorithm,(not recommended to modify) can use matlab online function to import measurement data into Firmware/Matlab_simulation/Fourier. M refit the function and convert the formula into python language to write the configuration file (can be compatible with math module)
- ![filter](https://github.com/user-attachments/assets/4b90a529-a230-4081-a3e8-6332506ff2df)
-
-[ ![SK1 Extruder kit: New design with cutter function and consumable detection](/Images/fourier.jpg)](https://github.com/TWOTREES-TTS/SK1-Extruder-kit-New-design-with-cutter-function-and-consumable-detection/blob/18d19fde80f542f92330e23c25ab3c6808a5bc6d/Image/filter.png)
+<img src="Image/fourier.png" width="500"/>
 3.	  Alpha-Beta filter is mainly used to suppress the mechanical error generated by the acquisition of consumable sensors, and it is a simplified version of a small computational load similar to Kalman filter. We built a pseudo-model that generates random data so that users can debug the appropriate Alpha and Beta values to adjust the sensitivity and noise resistance of the data
-  ![SK1 Extruder kit: New design with cutter function and consumable detection](/Images/filter.jpg)
+<img src="Image/filter.png" width="500"/>
 
 ## Frequently Asked Questions (FAQ)
 
@@ -97,6 +98,19 @@ Thank you for using SK1 Extruder Kit! If you have any questions or suggestions d
 
 **Thank you! We are twotrees, looking forward to growing and progressing together with you.**
 
+This is TwoTrees' Official YouTube channel.❤️Innovation the Root, Perfection the Fruit.
+
+Business cooperation: marketing@twotrees3d.com
+After-sales connection: service@twotrees3d.com
+
 - **Offical:**  [https://twotrees3d.com](https://twotrees3d.com)
+- **Store:**    [twotrees3dofficial.com](twotrees3dofficial.com)
 - **Wiki:**     [https://wiki.twotrees3d.com](https://wiki.twotrees3d.com)
 
+- **Facebook:** [facebook.com/twotrees3d](facebook.com/twotrees3d)
+- **Twitter:**  [twitter.com/TwoTrees3d_](twitter.com/TwoTrees3d_)
+- **TikTok:**  [tiktok.com/@twotreesofficial](tiktok.com/@twotreesofficial)
+- **Instagram:**  [instagram.com/twotrees3d.official](instagram.com/twotrees3d.official)
+- **Instagram:**  [instagram.com/twotrees3d.official](instagram.com/twotrees3d.official)
+- **Facebook Group:**  [facebook.com/groups/twotreesofficial](facebook.com/groups/twotreesofficial)
+- **Youtube:**  [https://www.youtube.com/@Twotrees3Dofficial](https://www.youtube.com/@Twotrees3Dofficial)
