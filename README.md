@@ -4,7 +4,7 @@
 
 ## Introduction
 
-![SK1 Extruder kit: New design with cutter function and consumable detection](./Images/preview.png)
+<img src="Image/preview.png" width="900"/>
 
 The SK1 extruder kit was inspired by the user's urgent need to improve printing efficiency and reduce clog. Most printer users will experience the problem of blocked extrusion heads, resulting in print interruptions and difficult maintenance, especially when replacing consumables, requiring manual handling of residual material filaments.To address these challenges SK1 By adopting a newly designed control scheme, SK1 can not only increase the extrusion flow rate and increase the extrusion speed, but also significantly improve the overall stability and accuracy of the printing. Most importantly, the new cutter function greatly simplifies the material return operation, effectively avoiding material residue in the printer and eliminating the problem of extrusion head clogging. A smarter and more reliable extrusion system for high-end users and those who need fast print speeds.
 
